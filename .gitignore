@@ -1,0 +1,5 @@
+data
+*.pyc
+*.pyo
+# ignore config.py, with it's credentials 
+config.py

@@ -1,0 +1,6 @@
+requests
+pytz
+# brew install libffi (for following SSL libraries)
+pyOpenSSL
+ndg-httpsclient
+pyasn1
