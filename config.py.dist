@@ -1,0 +1,4 @@
+BASE_ENDPOINT = 'https://mvault.services.pbs.org/api'
+CALLSIGN = 'MY CALLSIGN'
+KEY = 'MY KEY'
+SECRET = 'MY SECRET'
